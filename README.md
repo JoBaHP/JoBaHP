@@ -7,7 +7,7 @@
 
 <h3>A software engineer, lifelong learner, language enthusiast and sports fan</h3>
 
-I’m Jovan, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Jovan, a full-stack engineer, code enthusiast and self-proclaimed designer who specializes in front-end development. My mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
 Want to know more about me? <br>
 [Check out my LinkedIn profile 👆](https://www.linkedin.com/in/jovan-raosavljevic/)
 
