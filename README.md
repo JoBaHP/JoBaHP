@@ -7,7 +7,9 @@
 
 <h3>A software engineer, lifelong learner, language enthusiast and sports fan</h3>
 
-I’m Jovan, a full-stack engineer, code enthusiast and self-proclaimed designer who specializes in front-end development. My mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. <br>
+I’m Jovan, a full-stack engineer, code enthusiast and self-proclaimed designer who specializes in front-end development. My mission to translate user-focused designs into pixel-perfect websites or applications that run fast.
+<br>
+
 Want to know more about me? <br>
 [Check out my LinkedIn profile 👆](https://www.linkedin.com/in/jovan-raosavljevic/)
 
@@ -16,7 +18,6 @@ Want to know more about me? <br>
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-
 <br>
 
 ## 💼 Skills
