@@ -1,7 +1,10 @@
 ### Hi there 👋, My name is Jovan! 
-
 <!--START_SECTION:activity-->
 
+
+
+
+<!--END_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 [![Jovan's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/jovan-raosavljevic/)
