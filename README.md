@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Jovan! 
+### Hello there👋, My name is Jovan! 
 <!--START_SECTION:activity-->
 
 
@@ -19,7 +19,9 @@
 Analytical and motivated web development professional with experience in applications layers, presentation layers and databases. Code enthusiast and self-proclaimed designer who specializes in full-stack development. Consummate professional, with solid interpersonal abilities and complex problem-solving skills capable to make and consume REST API. Effective and proven track record of critical thinking, idea generation, and optimizing efficiencies.
 <br>
 
+<h4>You are:</h4>
 ![Visitor Count](https://profile-counter.glitch.me/{JoBaHP}/count.svg)
+<h4>Visitor of this page</h4>
 
 **Want to know more about me?** <br>
   [Personal Portfolio website 👆](https://jovan-portfolio.live/)
