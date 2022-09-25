@@ -20,8 +20,10 @@ Analytical and motivated web development professional with experience in applica
 <br>
 
 <h4>You are:</h4>
+
 ![Visitor Count](https://profile-counter.glitch.me/{JoBaHP}/count.svg)
-<h4>Visitor of this page</h4>
+
+<p>Visitor of this page</p>
 
 **Want to know more about me?** <br>
   [Personal Portfolio website 👆](https://jovan-portfolio.live/)
