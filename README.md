@@ -26,7 +26,7 @@ Analytical and motivated web development professional with experience in applica
 <p>Visitor of this page</p>
 
 **Want to know more about me?** <br>
-  [Personal Portfolio website 👆](https://jovanportfolio.netlify.app/)
+  [Personal Portfolio website 👆](https://jovanportfolio.netlify.app/) <br>
   [LinkedIn profile 👆](https://www.linkedin.com/in/jovan-raosavljevic/)
   
   <details>
